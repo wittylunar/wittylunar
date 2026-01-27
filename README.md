@@ -4,12 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wittylunar&label=Profile views&color=0e75b6&style=flat" alt="wittylunar" /> </p>
 
-- 🔭 I'm currently working on **My site**
-
-- 🤝 I'm looking for help with **Linux systems, Linux servers, Android devices**
-
-- 💬 Ask me about **Hey
-Im 15 year old
+**Hey Im 15 year old
 I use arch linux with moddifed gh0stzk-dotfiles
 my laptop setup:
    CPU: Intel Celeron N5095 2.00GHz
