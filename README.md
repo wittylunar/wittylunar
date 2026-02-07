@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wittylunar&label=Profile views&color=0e75b6&style=flat" alt="wittylunar" /> </p>
 
 **Hey Im 15 year old
-I use arch linux with moddifed gh0stzk-dotfiles
+I use arch linux
 my laptop setup:
    CPU: Intel Celeron N5095 2.00GHz
    GPU: build in cpu
