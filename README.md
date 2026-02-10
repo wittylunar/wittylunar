@@ -5,7 +5,7 @@ wittylunar@github
 -------------------------
 OS: Arch Linux
 Age: 15
-Languages: Python, Bash
+Languages: Python, Bash, Lua, Javascript, Java
 Locales: Russia, English
 Email: witty@wittylunar.cfd
 VK: @wittylunar
